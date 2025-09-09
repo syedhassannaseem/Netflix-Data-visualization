@@ -1,5 +1,8 @@
 # 🎬 Netflix Data Visualization  
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![VS Code](https://img.shields.io/badge/VS-Code-007ACC) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-green)
+
+
 ## 📌 Project Overview  
 This project explores and visualizes the **Netflix Movies & TV Shows dataset** using **Python, Pandas, and Matplotlib** in **VS Code**.  
 It includes multiple visualizations to understand Netflix’s content library, such as the distribution of Movies vs TV Shows, content ratings, release year trends, movie duration patterns, and top contributing countries.  
